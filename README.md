@@ -23,7 +23,7 @@ Bu bot, kullanıcıların bir metin dosyasındaki (TXT) e-posta ve hash bilgiler
 
 1. Bu depoyu klonlayın:
     ```sh
-    git clone [https://github.com/mehmet4kif/ExtractorBot.git](https://github.com/mehmet4kif/ExtractorBot.git)
+    git clone https://github.com/mehmet4kif/ExtractorBot.git
     cd telegram-bot
     ```
 
